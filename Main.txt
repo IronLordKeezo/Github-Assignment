@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GCW</title>
+</head>
+<nav>
+      
+      <ul>
+                                                <li class="active"><a href=https://gwc.co.uk>Home</a></li>
+                                                <li><a href=https://cdpn.io/rnHyB target="https://gwc.co.uk/AboutUs">About Us</a></li>
+                                                <li><a href=https://cdpn.io/rnHyB target="https://gwc.co.uk/SignIn">Sign In</a></li>
+                                </ul></nav>
+
+<body>
+<center>
+    <h1>
+        Gaming Community Website
+    </h1>
+    <p>
+	Welcome to our gaming community Website. We are a fun and friendly bunch of players who banded together to create
+	this amazing gaming community where you can have fun with us but at the same time our Admins are here to help and
+	enforce rules to keep you safe and supported.
+    </p>
+</center>
+
+<button type="button" value="Ark Server Info" role="https://gwc.co.uk/ArkServerInfo">View All Photos</button>
+
+
+</body>
+</html>
