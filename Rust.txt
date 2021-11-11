@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GCW-Rust</title>
+</head>
+<body>
+<center>
+    <h1>
+        Rust Server Information
+    </h1>
+    <p>
+	Welcome to the Rust server information page. Here there are details on our Rust server and IP Information for joing from within the game.
+	Our server has x5 rates, custom loot tables and much faster paced than vanilla rust servers.
+    </p>
+</center>
+
+    <p style='clear:both' class="subhead">
+        Visit our <a href="https://twitter.co.uk/gcw">Twitch</a> page for more information.
+        Join us on our <a href="https://discord.com/g65Dvc78">Discord</a> page as well for news and support.
+      </p>
+
+    
+
+<table class="fixed_headers">
+  <thead>
+    <tr>
+      <th>Server</th>
+      <th>IP Address</th>
+      <th>Map</th>
+      <th>Player Count</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rust Rats</td>
+      <td>145.239.205.124:28035</td>
+      <td>Procedural Map</td>
+      <td>100</td>
+    </tr>
+
+</body>
+</html>
