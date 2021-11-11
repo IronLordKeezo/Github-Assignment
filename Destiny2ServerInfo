@@ -1,10 +1,18 @@
 <html>
 <head>
-  <meta charset="UTF-8">
-  <title>Destiny 2 Server Info</title>
+    <meta charset="UTF-8">
+    <title>Destiny 2 Server Info</title>
 </head>
 <body>
+<header>
 
+</header>
+<nav>
+<ul>
+    <li class="active"><a href=https://gwc.co.uk>Home</a></li>
+    <li><a href=https://cdpn.io/rnHyB target="https://gwc.co.uk/AboutUs">About Us</a></li>
+    <li><a href=https://cdpn.io/rnHyB target="https://gwc.co.uk/SignIn">Sign In</a></li>
+</ul></nav>
 
 
 
