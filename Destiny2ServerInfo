@@ -2,20 +2,19 @@
 <head>
     <meta charset="UTF-8">
     <title>Destiny 2 Server Info</title>
+    <link rel="stylesheet" href="DestinyStyles.css">
 </head>
 <body>
-<header>
-
+<header class="header">
+    <h1>Destiny 2 - Server Information & Updates</h1>
+    <nav>
+        <ul>
+            <li class="active"><a href="Main.txt">Home</a></li>
+            <li><a href="https://gwc.co.uk/AboutUs">About Us</a></li>
+            <li><a href="https://gwc.co.uk/SignIn">Sign In</a></li>
+        </ul>
+    </nav>
 </header>
-<nav>
-<ul>
-    <li class="active"><a href=https://gwc.co.uk>Home</a></li>
-    <li><a href=https://cdpn.io/rnHyB target="https://gwc.co.uk/AboutUs">About Us</a></li>
-    <li><a href=https://cdpn.io/rnHyB target="https://gwc.co.uk/SignIn">Sign In</a></li>
-</ul></nav>
-
-
-
 
 
 
