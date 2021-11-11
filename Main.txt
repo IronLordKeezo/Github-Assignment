@@ -26,6 +26,7 @@
 
 <button type="button" value="Ark Server Info" role="https://gwc.co.uk/ArkServerInfo">View All Photos</button>
 
+<button type="button" value="Destiny Server Info" role="https://gwc.co.uk/DestinyServerInfo">View Latest Destiny Server Info</button>
 
 </body>
 </html>
