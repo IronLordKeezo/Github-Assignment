@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+html language = ("en")
+
+</head>
+<naviagtion bar>
+      
+      <ul>
+                                                <li class="active"><a href=https://gwc.co.uk>Home</a></li>
+                                                <li><a href=https://cdpn.io/rnHyB target="https://gwc.co.uk/AboutUs">About Us</a></li>
+                                                <li><a href=https://cdpn.io/rnHyB target="https://gwc.co.uk/SignIn">Sign In</a></li>
+                                </ul></nav>
+
+<body>
+<center>
+    <h1>
+        Gaming Community Website
+	</h1>
+
+	<header2>
+		Forza Horizon 5 Information
+	</header2>
+
+<p>
+ Forza Horizon 5 is a game that got relaased on 5 November 2021 . It is a racing video game developed by Playground Games and published by Xbox Game Studios. 
+It is the fifth Forza Horizon title and twelfth main instalment in the Forza series. The game is set in a fictionalised representation of Mexico. 
+Several vehicles are making their franchise debut in Forza Horizon 5. From the sheer scale and durability of the 2020 Ford Super Duty F-450 DRW Premium 
+to the exceptionally rare, naturally aspirated 1991 Jaguar Sport XJR-15 and the all-electric 2020 Porsche Taycan Turbo S, the new additions to our roster 
+are the most diverse they’ve ever been in Forza history.
+
+Forza Horizon 5 also introduces some of the world’s most innovative cars to the franchise – and our cover cars are no exception. The Mercedes-AMG ONE 
+brings Formula 1 hybrid technology almost one-to-one from the track to the street for the first time ever, while the 2021 Ford Bronco Badlands combines 
+the toughness of an F-Series truck and the performance spirit of Mustang to deliver an exhilarating off-road experience.
+	
+An enormous visual upgrade, especially to lighting, tyre smoke, and dust effects. Hundreds and hundreds of new custom parts, rims, and performance mods, 
+and cars with more character than ever. Drastic sound improvements, better handling, more granular preferences and options, more online activities. 
+It really is incredible across the board.
+
+An enormous visual upgrade, especially to lighting, tyre smoke, and dust effects. Hundreds and hundreds of new custom parts, rims, and performance mods, 
+and cars with more character than ever. Drastic sound improvements, better handling, more granular preferences and options, more online activities. It 
+really is incredible across the board.
+
+    </p>
+</center> 
+
+</body>
+</html>
+
+
+	
