@@ -24,9 +24,11 @@
     </p>
 </center>
 
-<button type="button" value="Ark Server Info" role="https://gwc.co.uk/ArkServerInfo">View All Photos</button>
+<button type="button" value="Ark Server Info" role="https://gwc.co.uk/ArkServerInfo">View Latest Ark Server Info</button>
 
-<button type="button" value="Destiny Server Info" role="https://gwc.co.uk/DestinyServerInfo">View Latest Destiny Server Info</button>
+<button type="button" value="Destiny 2 Server Info" role="https://gwc.co.uk/Destiny2ServerInfo">View Latest Destiny 2 Server Info</button>
+
+<button type="button" value="Rust Server Info" role="https://gwc.co.uk/RustServerInfo">View Latest Rust Server Info</button>
 
 </body>
 </html>
