@@ -1,1 +1,13 @@
-t
+As a concept design a gaming community website that is designed to attract gamers to be part of a fun and friendly community. 
+Providing details for certain games information that they can use to join and play together online. 
+
+We agreed with each other on who would design each page and who would start the main page. 
+I was going to start the main page and Kieran and John would add to this I also had the separate page for Rust Game details to create. 
+Kieran wanted to create the Destiny 2 and Ark server pages and John wanted to create the Battlefield and Forza pages as well as both adding links to these pages on the main page. 
+
+During the creation of the Main Page I decided to adjust the main page design compared to the workflow we had agreed on. For the Contacts us, Settings, Sign in I decided to do the following:- 
+
+Removed Settings altogether users shouldn’t need settings for the webpage. 
+
+Created a navigation bar below the Web Page Header and within the Navigation bar I put in the Contact Us and Sign-in area. 
+Also next to this I added a home button to take the user back to the home page info if they had went into Contact us.
