@@ -2,12 +2,15 @@ As a concept design a gaming community website that is designed to attract gamer
 Providing details for certain games information that they can use to join and play together online. 
 
 We agreed with each other on who would design each page and who would start the main page. 
-I was going to start the main page and Kieran and John would add to this I also had the separate page for Rust Game details to create. 
-Kieran wanted to create the Destiny 2 and Ark server pages and John wanted to create the Battlefield and Forza pages as well as both adding links to these pages on the main page. 
+John King was going to start the main page and Kieran and John would add to this.
+John King also had the separate page for Rust Game details to create. 
+Kieran wanted to create the Destiny 2 and battlefield pages and John wanted to create the Ark server and Forza pages as well as both adding links to these pages on the main page. 
 
-During the creation of the Main Page I decided to adjust the main page design compared to the workflow we had agreed on. For the Contacts us, Settings, Sign in I decided to do the following:- 
+During the creation of the Main Page John King decided to adjust the main page design compared to the workflow we had agreed on. For the Contacts us, Settings, Sign in he decided to do the following:- 
 
 Removed Settings altogether users shouldn’t need settings for the webpage. 
 
-Created a navigation bar below the Web Page Header and within the Navigation bar I put in the Contact Us and Sign-in area. 
-Also next to this I added a home button to take the user back to the home page info if they had went into Contact us.
+Created a navigation bar below the Web Page Header and within the Navigation bar he put in the Contact Us and Sign-in area. 
+Also next to this John King added a home button to take the user back to the home page info if they had went into Contact us.
+
+John worked on designing pages for Forza and Ark server. He wrote in html the page, with a navigation bar at the top, followed on a heading and another heading below that. This allowed the information to go below about the game. We had to copy the code from the navigation bar to look similar, so he did everything else and left that to the bar to the end. So, after John King had added it the main page, he copied it to the game pages. GitHub was very useful as if we wanted to make changes to each other’s, such as if we spot a design improvement, anyone can do it and then be checked by everyone easily instead of telling each member and asking permission before ever making a change. Working on individual branches allowed us to only have to push it to the main branch only when we were happy with our code. 
