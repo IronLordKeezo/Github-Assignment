@@ -14,3 +14,9 @@ Created a navigation bar below the Web Page Header and within the Navigation bar
 Also next to this John King added a home button to take the user back to the home page info if they had went into Contact us.
 
 John worked on designing pages for Forza and Ark server. He wrote in html the page, with a navigation bar at the top, followed on a heading and another heading below that. This allowed the information to go below about the game. We had to copy the code from the navigation bar to look similar, so he did everything else and left that to the bar to the end. So, after John King had added it the main page, he copied it to the game pages. GitHub was very useful as if we wanted to make changes to each other’s, such as if we spot a design improvement, anyone can do it and then be checked by everyone easily instead of telling each member and asking permission before ever making a change. Working on individual branches allowed us to only have to push it to the main branch only when we were happy with our code. 
+
+Removed the requirement of having to get our team members review and approve changes when making pushes to the main branch as it cut into our time when some of us were inactive and had to wait.
+
+We added a README file which was used to keep track of all our team suggestions for the design of the web page and this page was only to be used for suggestions that can be used across all the pages, i.e. adding a navigation bar for easily traversing our page. We also used it as a way to guide what was to be done, a lot of the information has been taken off it to maintain clarity, however. This introduced an easier way to share ideas amongst ourselves rather than chatting back and forth on Teams all the time.
+
+
