@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Destiny 2 Server Info</title>
-    <link rel="stylesheet" href="DestinyStyles.css">
+    <link rel="stylesheet" href="BattlefieldStyles.css">
 </head>
 <body>
 <header class="header">
