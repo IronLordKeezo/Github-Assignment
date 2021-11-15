@@ -1,0 +1,31 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Destiny 2 Server Info</title>
+    <link rel="stylesheet" href="DestinyStyles.css">
+</head>
+<body>
+<header class="header">
+    <h1>Battlefield 2042 - Server Information & Updates</h1>
+    <nav>
+        <ul>
+            <li class="active"><a href="Main.txt">Home</a></li>
+            <li><a href="https://gwc.co.uk/AboutUs">About Us</a></li>
+            <li><a href="https://gwc.co.uk/SignIn">Sign In</a></li>
+        </ul>
+    </nav>
+</header>
+
+<p>This page is designed to bring you the most up-to-date information on Battlefield 2042 and will keep you on top of any information and news regarding servers availability etc.
+This page allows you to be notified on all of this (should you wish it) if you sign up by clicking on the sign in button on the navigation bar.</p>
+
+<p>All of the latest news and information from the developers will be shown below, alongside any new tweets the post etc</p>
+
+
+
+
+
+
+
+</body>
+</html>
